@@ -1,0 +1,19 @@
+{
+  "name": "vc2-p2-g8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SokunbophaSovann2003/VC2-P2-G8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SokunbophaSovann2003/VC2-P2-G8/issues"
+  },
+  "homepage": "https://github.com/SokunbophaSovann2003/VC2-P2-G8#readme"
+}
